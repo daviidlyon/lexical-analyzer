@@ -16,7 +16,7 @@ This Python-based lexical analyzer is designed to analyze source code written in
 2. **Clone Repository:** Clone this repository to your local machine using the following command:
 
     ```
-    git clone https://github.com/yourusername/lexical-analyzer.git
+    git clone git@github.com:daviidlyon/lexical-analyzer.git
     ```
 
 3. **Install Jupyter Notebook:** If you haven't already, install Jupyter Notebook using pip:
